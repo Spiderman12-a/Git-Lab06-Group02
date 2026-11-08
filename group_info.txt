@@ -5,3 +5,7 @@ Member 3: Joy Dutta - 2023-3-60-463
 Course Code: CSE-412
 Lab Work: 06
 Topic: Git Repository
+
+Department: Computer Science and Engineering
+University: East West University
+Git Learning Status: In Progress
