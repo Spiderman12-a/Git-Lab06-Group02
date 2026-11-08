@@ -1,0 +1,7 @@
+Group Number: 02
+Member 1: Sumya Kawsar - 2023-3-60-168
+Member 2: Al Zarin - 2023-3-60-454
+Member 3: Joy Dutta - 2023-3-60-463
+Course Code: CSE-412
+Lab Work: 06
+Topic: Git Repository
