@@ -1,0 +1,15 @@
+1. git init – Initializes a new local Git repository in a project folder, allowing Git to track changes and manage different versions of files.
+
+2. git status – Displays the current status of the repository, including modified files, newly created files, and files that are ready to be committed.
+
+3. git add – Adds new or modified files to the staging area so that they can be included in the next commit.
+
+4. git commit – Saves the staged changes permanently in the local repository with a descriptive message explaining what changes were made.
+
+5. git push – Uploads committed changes from the local repository to a remote repository, such as GitHub, so others can access the latest updates.
+
+6. git pull – Downloads the latest changes from a remote repository and merges them into the current local branch to keep the project updated.
+
+7. git clone – Creates a local copy of an existing remote repository, including its files, commit history, and branches.
+
+8. git log – Displays the history of commits in the repository, including commit IDs, authors, dates, and commit messages.
